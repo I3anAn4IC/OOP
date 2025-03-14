@@ -50,7 +50,7 @@
 
 ## 7. Ресурсы
    - **Технологии**:
-     - BackEnd: TypeScript, Vue Framework
+     - BackEnd: TypeScript
      - FrontEnd: HTML, CSS
      - Дизайн: Figma
    - **Инфраструктура**:
