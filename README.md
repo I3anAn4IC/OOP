@@ -73,6 +73,14 @@
 ## 10. Финансовые показатели
    - Оценка затрат на разработку и эксплуатацию.
    - Прогнозируемые доходы с учетом ценовой политики.
+
+## UML-диаграмма
+![image alt](https://github.com/I3anAn4IC/OOP/blob/f2803bb8c07764c8c2ee14cf1aa1da716fe43ce4/UML-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.png?raw=true)
+
+## Use Case
+![image alt](https://github.com/I3anAn4IC/OOP/blob/f2803bb8c07764c8c2ee14cf1aa1da716fe43ce4/use%20case.png?raw=true)
+
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
